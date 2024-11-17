@@ -12,7 +12,7 @@ Trying to make every day count from now on!
 
 ![My Skills](https://skillicons.dev/icons?i=c,py,mysql&theme=light)
 
-**learning...** 📖
+**Learning...** 📖
 
 ![My learnings](https://skillicons.dev/icons?i=rust&theme=light)
 
